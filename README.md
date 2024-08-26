@@ -1,2 +1,2 @@
 # hermes
-hermes is an easy and fast IM system that build by golang
+hermes is an IM system that fast and easy-to-use build by Java
